@@ -226,4 +226,8 @@ After analyzing the data, the recommended top three cities for new store opening
 2. Average rent per customer is very low at 156.  
 3. Average sales per customer is better at 11.6k.
 
+
+## Technology Stack
+- **Database**: PostgreSQL
+- **Tools**: pgAdmin 4 (or any SQL editor)
 ---
